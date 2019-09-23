@@ -1,0 +1,82 @@
+body
+{
+ text-align:center;
+ width:100%;
+ margin:0 auto;
+ padding:0px;
+ font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+ background-color:#21610B;
+}
+#wrapper
+{
+ margin:0 auto;
+ padding:0px;
+ text-align:center;
+ width:995px;
+}
+#register_div
+{
+ display:none;
+}
+section
+{
+ background-color:white;
+ width:300px;
+ box-sizing:border-box;
+ margin:10px;
+ margin-left:347px;
+ padding-bottom:10px;
+ box-shadow:0px 0px 10px 0px #122A0A;
+}
+#wrapper section h1
+{
+ color:#21610B;
+ font-size:30px;
+ margin:0px;
+ background-color:#CEF6CE;
+ height:60px;
+ line-height:65px;
+}
+section input[type="text"]
+{
+ width:220px;
+ height:40px;
+ padding-left:5px;
+ font-size:15px;
+}
+section input[type="email"]
+{
+ width:220px;
+ height:40px;
+ padding-left:5px;
+ font-size:15px;
+}
+section input[type="password"]
+{
+ width:220px;
+ height:40px;
+ padding-left:5px;
+ font-size:15px;
+}
+section input[type="submit"]
+{
+ width:220px;
+ height:40px;
+ background-color:#088A08;
+ border:none;
+ color:white;
+ font-weight:bold;
+}
+section .change_link
+{
+ color:#21610B;
+}
+section .change_link input[type="button"]
+{
+ background:none;
+ border:none;
+ text-decoration:underline;
+ color:#2E64FE;
+ font-size:15px;
+ cursor:pointer;
+}

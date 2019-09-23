@@ -1,0 +1,25 @@
+
+<p>
+<style type="text/css">
+   body{
+    background-image: url(pic4.jpg);
+    background-size:
+    background-attachment: fixed;
+   }
+</style>
+</p>
+
+<div id="wrapper">
+ 
+
+ <nav>
+  <ul class="nav">
+    <li><a href="index.php">Incomig Transactions</a></li>
+    <li><a href="out.php">Outgoing Transactions</a></li>
+    <li><a href="balance.html">BALANCE</a></li>
+    <li><a href="reports.html">Reports</a></li>
+    
+  </ul>
+ </nav>
+ </div>
+ 

@@ -1,0 +1,130 @@
+body
+{
+ text-align:center;
+ width:100%;
+ font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+ background-color:#819FF7;
+}
+#wrapper
+{
+ margin:0 auto;
+ padding:0px;
+ text-align:center;
+ width:995px;
+
+}
+#wrapper h1
+{
+ margin-top:50px;   
+ 
+ 
+ 
+}
+#wrapper h1 a
+{
+ color:#0B2161;
+ font-size:18px;
+}
+#wrapper h2 input[type="submit"]
+{
+ background:none;
+ border:none;
+ text-decoration:underline;
+ font-size:17px;
+}
+#register_form
+{
+	display: none;
+}
+#login_form
+{
+ background-color:#eee;
+ width:550px;
+ height: 456px;
+ padding:20px;
+ box-sizing:border-box;
+ margin-left:220px;
+ box-shadow:0px 0px 10px 0px #2E64FE;
+}
+#login_form h1
+{
+ text-align:center;
+ margin:0px;
+ color:#0B2161;
+ font-size:27px;
+ margin-bottom:20px;
+}
+#login_form #login_label
+{
+ color:#0B2161;
+}
+#login_form input[type="text"],input[type="password"]
+{
+ width:250px;
+ height:40px;
+ padding-left:5px;
+ margin:5px;
+ border-radius:2px;
+ border:1px solid #2E64FE;
+}
+#login_form input[type="submit"]
+{
+ background-color:#2E64FE;
+ color:white;
+ border:none;
+ border-bottom:3px solid #0040FF;
+ width:250px;
+ height:45px;
+ border-radius:2px;
+ margin-left:-4px;
+ margin-top:5px;
+}
+#login_form #loading_spinner
+{
+ display:none;
+}
+
+
+#register_form
+{
+ background-color:#a8716b;
+ width:550px;
+ height: 456px;
+ padding:20px;
+ box-sizing:border-box;
+ margin-left:120px;
+ box-shadow:0px 0px 10px 0px #2E64FE;
+}
+#register_form h1
+{
+ text-align:center;
+ margin:0px;
+ color:#0B2161;
+ font-size:27px;
+ margin-bottom:20px;
+}
+#register_form #login_label
+{
+ color:#0B2161;
+}
+#register_form input[type="text"],input[type="password"]
+{
+ width:250px;
+ height:40px;
+ padding-left:5px;
+ margin:5px;
+ border-radius:2px;
+ border:1px solid #2E64FE;
+}
+#register_form input[type="submit"]
+{
+ background-color:#2E64FE;
+ color:white;
+ border:none;
+ border-bottom:3px solid #0040FF;
+ width:250px;
+ height:45px;
+ border-radius:2px;
+ margin-left:-4px;
+ margin-top:5px;
+}

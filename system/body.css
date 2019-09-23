@@ -1,0 +1,12 @@
+.wrapper a
+  {
+  	text-decoration: none;
+  }
+  .wrapper a:hover 
+    {
+    	background: red;
+    	text-decoration: underline;
+    }
+    .wrapper a:active {
+    	background: blue;
+    }
